@@ -17,11 +17,15 @@ body.path-admin-report-customsql a.view-category {
     background-image: url([[pix:moodle|t/collapsed]]);
     background-repeat: no-repeat;
     background-position: center left;
+    padding-left: 24px;
+    background-size: 16px;
 }
 .csql_category.csql_categoryshown .categoryname {
     background-image: url([[pix:moodle|t/expanded]]);
     background-repeat: no-repeat;
     background-position: center left;
+    padding-left: 28px;
+    background-size: 24px;
 }
 .csql_category .csql_category_reports {
     margin-left: 18px;
